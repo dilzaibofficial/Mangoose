@@ -1,0 +1,23 @@
+{
+  "name": "mangoose",
+  "version": "1.0.0",
+  "description": "Manoose By (Code Step By Step)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/palhg5848/Mangoose.git"
+  },
+  "author": "DIL ZAIB",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/palhg5848/Mangoose/issues"
+  },
+  "homepage": "https://github.com/palhg5848/Mangoose#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.6.3"
+  }
+}
